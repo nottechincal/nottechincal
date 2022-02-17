@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nottechincal
 - 👀 I’m interested in anything CyberSec
 - 🌱 I’m currently learning GO programming language
-- 💞️ I’m looking to collaborate on secure messaging networks
+- 💞️ I’m looking to collaborate on creating a secure messaging service/network
 - 📫 How to reach me Discord - nottechnical#1065
 
 <!---
